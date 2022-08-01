@@ -1,0 +1,126 @@
+body{
+    background-color: 'Montserrat';
+}
+
+#home{
+    background-color:#C2DED1;
+}
+
+.container-fluid{
+    padding: 5% 15%;
+}
+
+h1{
+    font-family: 'Montserrat-Black';
+    font-size: 3rem;
+    line-height: 1.5;
+    color:white;
+}
+
+/* navigation bar */
+.navbar{
+    padding-bottom: 5rem;
+}
+.navbar-brand{
+    font-family: "ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+    color:#5A8F7B;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link{
+font-family:'Montserrat-light';
+font-size: 1.3rem; ;
+}
+
+
+/*button*/
+.download-button{
+    margin-top: 50px;
+    margin-right: 30px;
+
+}
+
+
+/* item section*/
+
+
+h2{
+    
+    text-align: center;
+    margin:100px 0 100px 0;
+    color:#5A8F7B;
+}
+
+.item-1{
+    width:60%;
+    float:right;
+    font-size: 1.7rem;
+    color:#5A8F7B;
+}
+.item-2{
+    width:60%;
+    float:right;
+    font-size: 1.7rem;
+    color:#5A8F7B;
+}
+.item-3{
+    width:60%;
+    float:right;
+    font-size: 1.7rem;
+    color:#5A8F7B;
+}
+.item-4{
+    width:60%;
+    float:right;
+    font-size: 1.8rem;
+    color:#5A8F7B;
+    
+}
+
+#items img{
+    padding: 0 0px 50px 30px;
+}
+
+.desc{
+    width:70%;
+    float:right;
+    font-size:1.5rem ;
+}
+
+/* footer section*/
+#contact h2{
+   width:70%;
+   margin:0 auto 0 auto;
+   padding-top: 100px ;
+    font-family: 'Sacramento', cursive;
+    font-size: 4rem;
+} 
+
+.footer-link{
+    color:#11999E;
+    margin:10px 20px;
+    text-decoration: none;
+}
+.footer-link:hover{
+    color:#eaf6f6;
+}
+
+
+#contact{
+    background-color:#C2DED1;
+   
+}
+.bottom-container{
+   text-align: center ;
+   padding: 50px 0 30px 0;
+   
+}
+
+h3{
+    padding-bottom: 15px;
+}
